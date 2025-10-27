@@ -74,6 +74,13 @@ h1, h2 {
     height: auto;
     border-radius: 8px;
 }
+
+.imagen-juego2 {
+    width: 30%;
+    height: auto;
+    border-radius: 8px;
+}
+
 #contenedor-detalles-juego {
     text-align: center;
     margin-top: 20px;
