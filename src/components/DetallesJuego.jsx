@@ -6,12 +6,13 @@ function DetallesJuego({ juego }) {
   return (
     <div id="detalles-juego">
       <h2>{juego.name}</h2>
-      <img src={juego.header_image} alt={juego.name} className="imagen-juego" />
+      <img src={juego.header_image} alt={juego.name} className="imagen-juego2" />
       <p>
         <strong>Precio:</strong> {precio}
       </p>
     </div>
   );
 }
+
 
 export default DetallesJuego;
